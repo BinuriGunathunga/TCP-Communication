@@ -1,0 +1,14 @@
+E:\6 Semester\PDC\Asiment 1\TcpServer\bin\Debug\net9.0\TcpServer.exe
+E:\6 Semester\PDC\Asiment 1\TcpServer\bin\Debug\net9.0\TcpServer.deps.json
+E:\6 Semester\PDC\Asiment 1\TcpServer\bin\Debug\net9.0\TcpServer.runtimeconfig.json
+E:\6 Semester\PDC\Asiment 1\TcpServer\bin\Debug\net9.0\TcpServer.dll
+E:\6 Semester\PDC\Asiment 1\TcpServer\bin\Debug\net9.0\TcpServer.pdb
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfoInputs.cache
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfo.cs
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\TcpServer.csproj.CoreCompileInputs.cache
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\TcpServer.dll
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\refint\TcpServer.dll
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\TcpServer.pdb
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\TcpServer.genruntimeconfig.cache
+E:\6 Semester\PDC\Asiment 1\TcpServer\obj\Debug\net9.0\ref\TcpServer.dll

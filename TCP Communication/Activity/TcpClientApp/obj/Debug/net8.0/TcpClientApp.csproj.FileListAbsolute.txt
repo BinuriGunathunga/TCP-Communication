@@ -1,0 +1,28 @@
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\bin\Debug\net8.0\TcpClientApp.exe
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\bin\Debug\net8.0\TcpClientApp.deps.json
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\bin\Debug\net8.0\TcpClientApp.runtimeconfig.json
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\bin\Debug\net8.0\TcpClientApp.dll
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\bin\Debug\net8.0\TcpClientApp.pdb
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\TcpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\TcpClientApp.AssemblyInfoInputs.cache
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\TcpClientApp.AssemblyInfo.cs
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\TcpClientApp.csproj.CoreCompileInputs.cache
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\TcpClientApp.dll
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\refint\TcpClientApp.dll
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\TcpClientApp.pdb
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\TcpClientApp.genruntimeconfig.cache
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Asiment 1\TcpClientApp\obj\Debug\net8.0\ref\TcpClientApp.dll
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\bin\Debug\net8.0\TcpClientApp.exe
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\bin\Debug\net8.0\TcpClientApp.deps.json
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\bin\Debug\net8.0\TcpClientApp.runtimeconfig.json
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\bin\Debug\net8.0\TcpClientApp.dll
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\bin\Debug\net8.0\TcpClientApp.pdb
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\TcpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\TcpClientApp.AssemblyInfoInputs.cache
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\TcpClientApp.AssemblyInfo.cs
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\TcpClientApp.csproj.CoreCompileInputs.cache
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\TcpClientApp.dll
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\refint\TcpClientApp.dll
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\TcpClientApp.pdb
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\TcpClientApp.genruntimeconfig.cache
+E:\3rd Year\2nd Sem\PDC\New folder\TCP Communication\Activity\TcpClientApp\obj\Debug\net8.0\ref\TcpClientApp.dll

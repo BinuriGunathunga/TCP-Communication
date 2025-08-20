@@ -1,0 +1,14 @@
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\bin\Debug\net9.0\TcpClientApp.exe
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\bin\Debug\net9.0\TcpClientApp.deps.json
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\bin\Debug\net9.0\TcpClientApp.runtimeconfig.json
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\bin\Debug\net9.0\TcpClientApp.dll
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\bin\Debug\net9.0\TcpClientApp.pdb
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\TcpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\TcpClientApp.AssemblyInfoInputs.cache
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\TcpClientApp.AssemblyInfo.cs
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\TcpClientApp.csproj.CoreCompileInputs.cache
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\TcpClientApp.dll
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\refint\TcpClientApp.dll
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\TcpClientApp.pdb
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\TcpClientApp.genruntimeconfig.cache
+E:\6 Semester\PDC\Asiment 1\TcpClientApp\obj\Debug\net9.0\ref\TcpClientApp.dll
